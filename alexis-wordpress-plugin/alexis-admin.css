@@ -93,3 +93,11 @@ background: #489A90;
 #wp-admin-bar-wp-logo {
 	display: none;
 }
+
+#adminmenu div.wp-menu-name {
+	padding-left: 12px;
+}
+
+#adminmenu div.wp-menu-image {
+	display: none;
+}
