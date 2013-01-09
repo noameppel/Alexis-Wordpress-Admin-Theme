@@ -1,0 +1,95 @@
+/* Custom Alexis Wordpress Admin Theme */
+
+* {
+	font-family: 'Average Sans', sans-serif;
+}
+
+#wpwrap {
+	height: auto;
+	min-height: 100%;
+	width: 100%;
+	position: relative;
+	background: url('images/wild_oliva.png');
+}
+
+.wrap h2 {
+	color: #fff;
+	text-shadow: none;
+}
+
+.ac_match, .subsubsub a.current {
+	color: #fff;
+}
+
+a,
+#adminmenu a,
+#the-comment-list p.comment-author strong a,
+#media-upload a.del-link,
+#media-items a.delete,
+#media-items a.delete-permanently,
+.plugins a.delete,
+.ui-tabs-nav a {
+	color: #000;
+	dsfsdfsd:dsfsdfsdfd;direction:dsfsd;
+	sds
+}
+
+#wpadminbar {
+	height: 35px;
+	background-image: -webkit-gradient(linear,left bottom,left top,color-stop(0,#6D6D6D),color-stop(18%,grey));
+	background-image: -webkit-linear-gradient(bottom,#6D6D6D 0,grey 5px);
+	background-image: -moz-linear-gradient(bottom,#6D6D6D 0,grey 5px);
+	background-image: -o-linear-gradient(bottom,#6D6D6D 0,grey 5px);
+	background-image: linear-gradient(to top,#6D6D6D 0,grey 5px);
+	border: 1px solid #000;
+	}
+
+#wpadminbar * {
+	color: #fff;
+	text-shadow: none;
+}
+
+#adminmenu a.menu-top, #adminmenu .wp-submenu-head {
+	font-weight: normal;
+}
+
+.row-title {
+	font-weight: normal;
+}
+
+#wpadminbar .ab-top-secondary {
+	background: transparent;
+}
+
+#wpadminbar .quicklinks > ul > li {
+	border-right: 0;
+}
+
+#wpadminbar .quicklinks > ul > li > a, #wpadminbar .quicklinks > ul > li > .ab-empty-item {
+	border: 0;
+}
+
+#wpadminbar .quicklinks .ab-top-secondary > li > a, #wpadminbar .quicklinks .ab-top-secondary > li > .ab-empty-item {
+	border-left: 0;
+}
+
+#wp-toolbar {
+	margin-top: 4px;
+}
+
+#wpbody {
+	margin-top: 8px;
+}
+
+.form-table th, .form-wrap label {
+color: #fff;
+text-shadow: none;
+}
+
+.mceIframeContainer #content_ifr {
+background: #489A90;
+}
+
+#wp-admin-bar-wp-logo {
+	display: none;
+}
